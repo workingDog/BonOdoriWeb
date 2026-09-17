@@ -13,8 +13,3 @@ Additional songs can be imported into the app and added to playlists for use dur
 
 **BonOdori** is free to use and does not provide or sell music. It is a tool for playing music selected by the user for Bon Odori dance practice and instruction. The app requires no account, registration, subscription, payment information, internet connection, or advertising.
 
-For reviewer notes:
-Tap on the "info" icon (top left) to see the app user instructions.
-The demo music tracks were created specifically for the app using computer-generated audio. They are original compositions and recordings, not copied or sampled from an existing commercial or copyrighted recording. Additional songs can be imported into the app and added to playlists for use during practice sessions and classes. 
-**BonOdori** is free to use and does not provide or sell music. It is a tool for playing music selected by the user for Bon Odori dance practice and instruction. The app requires no account, registration, subscription, payment information, internet connection, or advertising.
-
